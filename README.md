@@ -4,10 +4,6 @@
 This Web App was built as a final project for the Code Institute's classroom bootcamp. 
 It is a **fictional** Ecommerce site built with Python's *Django* framework - no template was used.
 
-## Live Demo
-
-**Follow this link to view deployed version of the web app https://conor-dev-summaries.herokuapp.com/**
-
 ## Built with 
 1. Django
 2. Python
@@ -32,7 +28,7 @@ to point to the online resources.
 Follow the below instructions to clone this project for Mac (commands will be slightly different for Windows)
 
 1. Go to folder you want to put the cloned project in your terminal & type:
-    `$ git clone https://github.com/conorc470/django-ecommerce-project.git`
+    `$ git clone https://github.com/habenkiros/zala_commerce.git`
 2. Create & Activate a new Virtual Environment in terminal:
     Create: `$ python3 -m venv ~/virtualenvs/name_of_environment`
     Activate: `$ source ~/virtualenvs/name_of_environment/bin/activate`
